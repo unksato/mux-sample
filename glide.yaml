@@ -1,0 +1,4 @@
+package: unk.jp.net/sample
+import:
+- package: github.com/gorilla/mux
+  version: ^1.4.0
